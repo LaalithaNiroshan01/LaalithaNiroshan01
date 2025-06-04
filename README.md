@@ -2,7 +2,7 @@
 <!-- Futuristic & Stylish GitHub Profile README for Laalitha Niroshan -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B+I'm+Laalitha+Niroshan;Software+Engineer+%7C+UI%2FUX+Designer;Futurist.+Creator.+Builder." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=23&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B+I'm+Laalitha+Niroshan;Software+Engineer+%7C+UI%2FUX+Designer;Futurist.+Creator.+Builder." alt="Typing SVG" />
 </h1>
 
 <p align="center">
