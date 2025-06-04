@@ -6,7 +6,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://i.imgur.com/i0yA04G.gif" width="400" alt="dev futuristic" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
 </p>
 
 <p align="center">
@@ -56,9 +56,9 @@ location: Malabe, Sri Lanka
 ## 🎨 UI/UX Projects Showcase
 
 <p align="center">
-  <img src="https://i.imgur.com/znic5Fy.gif" width="200" />
-  <img src="https://i.imgur.com/m1v2DPa.gif" width="200" />
-  <img src="https://i.imgur.com/CNh4bOQ.gif" width="200" />
+  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="200" /> 
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="200" />
+  <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="200" /> 
 </p>
 
 ---
